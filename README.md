@@ -16,6 +16,8 @@
 
 [Лабораторная работа №6 Информатика](https://github.com/deadxraver/Inf6)
 
+[Лабораторная работа №1 ОПД](https://github.com/deadxraver/OPD1)
+
 ## 2 семестр
 
 [3 лабораторные в одной репе по БД](https://github.com/deadxraver/DataBase)
