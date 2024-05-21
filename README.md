@@ -18,6 +18,10 @@
 
 [Лабораторная работа №1 ОПД](https://github.com/deadxraver/OPD1)
 
+[Лабораторная работа №2 ОПД](https://github.com/deadxraver/OPD2)
+
+[Лабораторная работа №1 Программирование](https://github.com/deadxraver/Prog1)
+
 ## 2 семестр
 
 [3 лабораторные в одной репе по БД](https://github.com/deadxraver/DataBase)
