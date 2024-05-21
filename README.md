@@ -24,6 +24,10 @@
 
 ## 2 семестр
 
+[Лабораторная работа №5 Программирование](https://github.com/deadxraver/Prog5)
+
+[Лабораторная работа №1 Базы данных](https://github.com/deadxraver/DB1)
+
 [3 лабораторные в одной репе по БД](https://github.com/deadxraver/DataBase)
 (разобью потом)
 
