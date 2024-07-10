@@ -36,3 +36,10 @@
 
 [Лабораторная работа №7 Программирование](https://github.com/deadxraver/Prog7)
 
+
+
+## Сторонние проекты / приколы
+
+[Минер](https://github.com/deadxraver/GUI-Minesweaper)
+
+[Джупитериум](https://github.com/deadxraver/Jupiterium) (чето я его забросил, мб вернусь когда нибудь)
