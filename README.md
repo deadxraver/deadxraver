@@ -36,7 +36,7 @@
 
 [Лабораторная работа №7 Программирование](https://github.com/deadxraver/Prog7)
 
-[Лабораторная работа №7 Программирование](https://github.com/deadxraver/Prog8) (не сдавал)
+[Лабораторная работа №8 Программирование](https://github.com/deadxraver/Prog8) (не сдавал)
 
 
 
