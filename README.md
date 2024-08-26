@@ -45,3 +45,5 @@
 [Минер](https://github.com/deadxraver/GUI-Minesweaper)
 
 [Джупитериум](https://github.com/deadxraver/Jupiterium) (чето я его забросил, мб вернусь когда нибудь)
+
+[Счетчик секунд до нового года](https://github.com/deadxraver/GUI-New-Year-Countdown)
