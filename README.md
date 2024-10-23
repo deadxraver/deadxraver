@@ -38,6 +38,9 @@
 
 [Лабораторная работа №8 Программирование](https://github.com/deadxraver/Prog8) (не сдавал)
 
+## 3 семестр
+
+Лабораторная работа №1 Веб [фронт](https://github.com/deadxraver/WEB-LAB1) [бэк](https://github.com/deadxraver/WEB-LAB1-BACKEND)
 
 
 ## Сторонние проекты / приколы
