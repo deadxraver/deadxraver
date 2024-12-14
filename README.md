@@ -40,8 +40,19 @@
 
 ## 3 семестр
 
-Лабораторная работа №1 Веб [фронт](https://github.com/deadxraver/WEB-LAB1) [бэк](https://github.com/deadxraver/WEB-LAB1-BACKEND)
+Лабораторная работа №1 ВЕБ [фронт](https://github.com/deadxraver/WEB-LAB1) [бэк](https://github.com/deadxraver/WEB-LAB1-BACKEND)
 
+[Лабораторная работа №2 ВЕБ](https://github.com/deadxraver/WEB-LAB2)
+
+[Лабораторная работа №3 ВЕБ](https://github.com/deadxraver/WEB3)
+
+[Лабораторная работа №1 ЯПЫ](https://github.com/deadxraver/PL-Lab1)
+
+[Лабораторная работа №2 ЯПЫ](https://github.com/deadxraver/PL-Lab2)
+
+[Лабораторная работа №3 ЯПЫ](https://github.com/deadxraver/PL-Lab3)
+
+[Проект физика](https://github.com/deadxraver/PHYSICS)
 
 ## Сторонние проекты / приколы
 
