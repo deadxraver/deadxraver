@@ -62,7 +62,7 @@
 
 [Лабораторная работа №2](https://github.com/deadxraver/WEB-LAB2)
 
-[Лабораторная работа №3](https://github.com/deadxraver/WEB3) [хостинг](super-shershni.ru:18080/WEB3)
+[Лабораторная работа №3](https://github.com/deadxraver/WEB3) [хостинг](http://super-shershni.ru:18080/WEB3)
 
 ### ЯПЫ 😇
 
@@ -76,7 +76,7 @@
 
 ### Физика
 
-[Проект](https://github.com/deadxraver/PHYSICS) [хостинг](super-shershni.ru:3000)
+[Проект](https://github.com/deadxraver/PHYSICS) [хостинг](http://super-shershni.ru:3000)
 
 ## Сторонние проекты / приколы
 
