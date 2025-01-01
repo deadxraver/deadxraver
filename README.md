@@ -2,6 +2,7 @@
 
 ![гойда-охлобыстин](https://github.com/user-attachments/assets/2fd62a5e-5be3-4860-999e-6a07e8aaa8eb)
 
+[тгк😇](https://t.me/bawdyPlace)
 
 На данный момент у нас есть:
 
@@ -61,7 +62,7 @@
 
 [Лабораторная работа №2](https://github.com/deadxraver/WEB-LAB2)
 
-[Лабораторная работа №3](https://github.com/deadxraver/WEB3)
+[Лабораторная работа №3](https://github.com/deadxraver/WEB3) [хостинг](super-shershni.ru:18080/WEB3)
 
 ### ЯПЫ 😇
 
@@ -75,7 +76,7 @@
 
 ### Физика
 
-[Проект](https://github.com/deadxraver/PHYSICS)
+[Проект](https://github.com/deadxraver/PHYSICS) [хостинг](super-shershni.ru:3000)
 
 ## Сторонние проекты / приколы
 
