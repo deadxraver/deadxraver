@@ -64,7 +64,7 @@
 
 [Лабораторная работа №3](https://github.com/deadxraver/WEB3) [хостинг](http://super-shershni.ru:18080/WEB3)
 
-Лабораторная работа №4 [фронт](https://github.com/deadxraver/WEB4) [бэк](https://github.com/deadxraver/WEB4-BACK)
+Лабораторная работа №4 [фронт](https://github.com/deadxraver/WEB4) [бэк](https://github.com/deadxraver/WEB4-BACK) [хостинг](http://super-shershni.ru:4444/)
 
 ### ЯПЫ 😇
 
