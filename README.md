@@ -80,6 +80,14 @@
 
 [Проект](https://github.com/deadxraver/PHYSICS) [хостинг](http://super-shershni.ru:3000)
 
+## 4 семестр
+
+### [Алгоритмы и структуры данных (пока что только для избранных)](https://github.com/deadxraver/algorithms)
+
+### Архитектура компьютера
+
+[Лабораторная №3](https://github.com/deadxraver/csa-lab3) (пенской красавчик)
+
 ## Сторонние проекты / приколы
 
 [Минер](https://github.com/deadxraver/GUI-Minesweaper)
