@@ -86,7 +86,17 @@
 
 ### Архитектура компьютера
 
-[Лабораторная №3](https://github.com/deadxraver/csa-lab3) (пенской красавчик)
+[Лабораторная работа №3](https://github.com/deadxraver/csa-lab3) (пенской красавчик)
+
+[Лабораторная работа №4](https://github.com/deadxraver/csa-lab4)
+
+### Матстат
+
+[Лабораторная работа №1](https://github.com/deadxraver/MATSTAT)
+
+### Вычмат
+
+[Лабораторная работа №1](https://github.com/deadxraver/computational-mathematics-lab1)
 
 ## Сторонние проекты / приколы
 
