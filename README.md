@@ -94,6 +94,8 @@
 
 [Лабораторная работа №1](https://github.com/deadxraver/MATSTAT)
 
+[Лабораторная работа №2](https://github.com/deadxraver/matstat2)
+
 ### Методы оптимизации
 
 [Лабораторная работа №2](https://github.com/deadxraver/metop-lab2)
