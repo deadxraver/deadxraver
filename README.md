@@ -62,9 +62,9 @@
 
 [Лабораторная работа №2](https://github.com/deadxraver/WEB-LAB2)
 
-[Лабораторная работа №3](https://github.com/deadxraver/WEB3) [хостинг](http://super-shershni.ru:18080/WEB3)
+[Лабораторная работа №3](https://github.com/deadxraver/WEB3)
 
-Лабораторная работа №4 [фронт](https://github.com/deadxraver/WEB4) [бэк](https://github.com/deadxraver/WEB4-BACK) [хостинг](http://super-shershni.ru:4444/)
+Лабораторная работа №4 [фронт](https://github.com/deadxraver/WEB4) [бэк](https://github.com/deadxraver/WEB4-BACK)
 
 ### ЯПЫ 😇
 
@@ -78,7 +78,7 @@
 
 ### Физика
 
-[Проект](https://github.com/deadxraver/PHYSICS) [хостинг](http://super-shershni.ru:3000)
+[Проект](https://github.com/deadxraver/PHYSICS)
 
 ## 4 семестр
 
@@ -106,10 +106,12 @@
 
 [Лабораторная работа №1](https://github.com/deadxraver/computational-mathematics-lab1)
 
+[Лабораторная работа №2](https://github.com/deadxraver/computational-mathematics-lab2)
+
+[Лабораторная работа №3](https://github.com/deadxraver/computational-mathematics-lab3)
+
 ## Сторонние проекты / приколы
 
 [Минер](https://github.com/deadxraver/GUI-Minesweaper)
-
-[Джупитериум](https://github.com/deadxraver/Jupiterium) (чето я его забросил, мб вернусь когда нибудь)
 
 [Счетчик секунд до нового года](https://github.com/deadxraver/GUI-New-Year-Countdown)
