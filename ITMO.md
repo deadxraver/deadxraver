@@ -45,7 +45,7 @@
 
 [Лабораторная работа №1](https://github.com/deadxraver/DB1)
 
-[3 лабораторные в одной репе](https://github.com/deadxraver/DataBase)
+[4 лабораторные в одной репе](https://github.com/deadxraver/DataBase)
 (разобью потом)
 
 ## 3 семестр
