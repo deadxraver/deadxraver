@@ -13,3 +13,5 @@
 [Минер](https://github.com/deadxraver/GUI-Minesweaper)
 
 [Счетчик секунд до нового года](https://github.com/deadxraver/GUI-New-Year-Countdown)
+
+[Device Mapper Proxy](https://github.com/deadxraver/yadro-dmp)
