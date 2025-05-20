@@ -105,3 +105,5 @@
 [Лабораторная работа №2](https://github.com/deadxraver/computational-mathematics-lab2)
 
 [Лабораторная работа №3](https://github.com/deadxraver/computational-mathematics-lab3)
+
+[Лабораторная работа №4](https://github.com/deadxraver/comp-math-lab4)
