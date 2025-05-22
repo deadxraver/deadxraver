@@ -98,6 +98,8 @@
 
 [Лабораторная работа №4](https://github.com/deadxraver/metop-lab4)
 
+[Лабораторная работа №6](https://github.com/deadxraver/metop-lab6)
+
 ### Вычмат
 
 [Лабораторная работа №1](https://github.com/deadxraver/computational-mathematics-lab1)
