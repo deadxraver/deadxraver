@@ -1,6 +1,6 @@
 # Мои проекты
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadxraver&layout=pie&langs_count=12&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadxraver&layout=pie&langs_count=12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 [тгк😇](https://t.me/bawdyPlace)
 
