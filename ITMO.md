@@ -109,3 +109,11 @@
 [Лабораторная работа №3](https://github.com/deadxraver/computational-mathematics-lab3)
 
 [Лабораторная работа №4](https://github.com/deadxraver/comp-math-lab4)
+
+[Лабораторная работа №5](https://github.com/deadxraver/comp-math-lab5)
+
+[Лабораторная работа №6](https://github.com/deadxraver/comp-math-lab6)
+
+### Физика 
+
+[Проект 2](https://github.com/deadxraver/physics-2)
