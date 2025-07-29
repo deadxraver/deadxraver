@@ -84,6 +84,8 @@
 
 [Лабораторная работа №3](https://github.com/deadxraver/csa-lab3) (пенской красавчик)
 
+[Большой сборник кодов для третьей лабы](https://github.com/deadxraver/csa-lab3-bank) ([платно](https://t.me/deadxraver))
+
 [Лабораторная работа №4](https://github.com/deadxraver/csa-lab4)
 
 ### Матстат
