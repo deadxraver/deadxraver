@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadxraver&layout=pie&langs_count=12&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[тгк😇](https://t.me/bawdyPlace)
+[тгк😇](https://t.me/+jSm2gI3ex841OTMy)
 
 ## Учебные проекты
 
