@@ -121,3 +121,10 @@
 ### Физика 
 
 [Проект 2](https://github.com/deadxraver/physics-2)
+
+## 5 семестр
+
+### Системы искусственного интеллекта
+
+[Лабораторная 1](https://github.com/deadxraver/sai-lab1)
+
