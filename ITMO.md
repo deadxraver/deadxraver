@@ -135,3 +135,5 @@
 ### Функциональное программирование
 
 [Лабораторная 0 (эссе)](https://github.com/deadxraver/fp-lab0)
+
+[Лабораторная 1](https://github.com/deadxraver/fp-lab1)
