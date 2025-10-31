@@ -128,6 +128,8 @@
 
 [Лабораторная 1](https://github.com/deadxraver/sai-lab1)
 
+[Лабораторная 2](https://github.com/deadxraver/sai-lab2)
+
 ### Операционные системы (прод)
 
 [Лабораторные 1-3](https://github.com/deadxraver/OS-labs) (сори гайз до конца года репа должна быть приватной)
