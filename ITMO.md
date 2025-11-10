@@ -86,8 +86,6 @@
 
 [Большой сборник кодов для третьей лабы](https://github.com/deadxraver/csa-lab3-bank)
 
-[Лабораторная работа №4](https://github.com/deadxraver/csa-lab4)
-
 ### Матстат
 
 [Лабораторная работа №1](https://github.com/deadxraver/MATSTAT)
