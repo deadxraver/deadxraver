@@ -136,6 +136,8 @@
 
 [Лабораторные 1-3](https://github.com/deadxraver/OS-labs) (сори гайз до конца года репа должна быть приватной)
 
+[Лабораторная 4 (ФС)](https://github.com/deadxraver/srsfs)
+
 ### Функциональное программирование
 
 [Лабораторная 0 (эссе)](https://github.com/deadxraver/fp-lab0)
