@@ -20,6 +20,6 @@
 
 [impulse_verif_tests](https://github.com/deadxraver/impulse_verif_tests)
 
-[IPv4 Chat](https://github.com/deadxraver/IPv4-chat/)
+[Файловая система SRSFS](https://github.com/deadxraver/srsfs)
 
 [Модель стекового процессора + транслятор](https://github.com/deadxraver/alpha-shersh-murderer)
