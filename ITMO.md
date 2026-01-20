@@ -143,3 +143,13 @@
 [Лабораторная 0 (эссе)](https://github.com/deadxraver/fp-lab0)
 
 [Лабораторная 1](https://github.com/deadxraver/fp-lab1)
+
+[Лабораторная 2](https://github.com/deadxraver/fp-lab2)
+
+### Информационные системы 👎👎👎
+
+[Лабораторная 1](https://github.com/deadxraver/IS-lab1)
+
+[Лабораторная 2](https://github.com/deadxraver/IS-lab1/tree/lab2)
+
+[Лабораторная 3](https://github.com/deadxraver/IS-lab1/tree/lab3)
