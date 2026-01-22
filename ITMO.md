@@ -134,7 +134,7 @@
 
 ### Операционные системы (прод)
 
-[Лабораторные 1-3](https://github.com/deadxraver/OS-labs) (сори гайз до конца года репа должна быть приватной)
+[Лабораторные 1-3](https://github.com/deadxraver/OS-labs)
 
 [Лабораторная 4 (ФС)](https://github.com/deadxraver/srsfs)
 
