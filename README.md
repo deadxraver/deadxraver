@@ -20,6 +20,8 @@
 
 [impulse_verif_tests](https://github.com/deadxraver/impulse_verif_tests)
 
+[yadro_telecom_test](https://github.com/deadxraver/yadro-telecom-test)
+
 [Файловая система SRSFS](https://github.com/deadxraver/srsfs)
 
 [Модель стекового процессора + транслятор](https://github.com/deadxraver/alpha-shersh-murderer)
