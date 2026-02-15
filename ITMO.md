@@ -146,6 +146,8 @@
 
 [Лабораторная 2](https://github.com/deadxraver/fp-lab2)
 
+[Лабораторная 3](https://github.com/deadxraver/fp-lab3)
+
 ### Информационные системы 👎👎👎
 
 [Лабораторная 1](https://github.com/deadxraver/IS-lab1)
@@ -153,3 +155,9 @@
 [Лабораторная 2](https://github.com/deadxraver/IS-lab1/tree/lab2)
 
 [Лабораторная 3](https://github.com/deadxraver/IS-lab1/tree/lab3)
+
+## 6 семестр
+
+### Системы ввода-вывода
+
+[Лабораторная 1](https://github.com/deadxraver/IO-lab1)
