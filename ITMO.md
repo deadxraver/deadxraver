@@ -161,3 +161,7 @@
 ### Системы ввода-вывода
 
 [Лабораторная 1](https://github.com/deadxraver/IO-lab1)
+
+### Разработка компиляторов
+
+[Лексер](https://github.com/deadxraver/simple-compiler)
