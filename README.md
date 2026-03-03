@@ -25,3 +25,5 @@
 [Файловая система SRSFS](https://github.com/deadxraver/srsfs)
 
 [Модель стекового процессора + транслятор](https://github.com/deadxraver/alpha-shersh-murderer)
+
+[Обедающие философы на "токенах"](https://github.com/deadxraver/dining-philosophers-token)
