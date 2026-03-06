@@ -162,6 +162,12 @@
 
 [Лабораторная 1](https://github.com/deadxraver/IO-lab1)
 
+[Лабораторная 2](https://github.com/deadxraver/IO-lab2)
+
 ### Разработка компиляторов
 
-[Лексер](https://github.com/deadxraver/simple-compiler)
+[Лексер+Парсер](https://github.com/deadxraver/simple-compiler)
+
+### Тестирование программного обеспечения
+
+[Лабораторная 1](https://github.com/deadxraver/tpo-lab1) (на гелиосе нет сппюнит 😡)
