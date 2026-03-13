@@ -16,7 +16,7 @@
 
 [Счетчик секунд до нового года](https://github.com/deadxraver/GUI-New-Year-Countdown)
 
-[Device Mapper Proxy](https://github.com/deadxraver/yadro-dmp)
+[Device Mapper Proxy](https://github.com/deadxraver/device-mapper-proxy)
 
 [impulse_verif_tests](https://github.com/deadxraver/impulse_verif_tests)
 
