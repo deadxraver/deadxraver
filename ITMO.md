@@ -172,6 +172,8 @@
 
 [Лабораторная 1](https://github.com/deadxraver/tpo-lab1) (слава богу не джава)
 
+[Лабораторная 2](https://github.com/deadxraver/tpo-lab2)
+
 ### Распределённые системы хранения данных
 
 _будеь_
