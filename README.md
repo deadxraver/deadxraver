@@ -27,3 +27,7 @@
 [Модель стекового процессора + транслятор](https://github.com/deadxraver/alpha-shersh-murderer)
 
 [Обедающие философы на "токенах"](https://github.com/deadxraver/dining-philosophers-token)
+
+[Data Race Inspector](https://github.com/deadxraver/data-race-inspector)
+
+[CSV Reader](https://github.com/deadxraver/csvreader)
