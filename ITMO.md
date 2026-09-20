@@ -173,3 +173,9 @@
 [Лабораторная 1](https://github.com/deadxraver/tpo-lab1) (слава богу не джава)
 
 [Лабораторная 2](https://github.com/deadxraver/tpo-lab2)
+
+## 7 семестр
+
+### Распределённые вычисления
+
+[Лабораторная 1](https://github.com/deadxraver/pa1)
