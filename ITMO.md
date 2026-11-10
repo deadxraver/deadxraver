@@ -179,3 +179,7 @@
 ### Распределённые вычисления
 
 [Лабораторная 1](https://github.com/deadxraver/pa1)
+
+### Инфобез
+
+[Лабораторная 1](https://github.com/deadxraver/cybersec-lab1)
